@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am a developer</p>
+<p align="left">I am a Fullstack developer</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h6 align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning React<br>🎲 Curious coder</h6>
+<h6 align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning React<br>🎲 Curious coder<br>📫How to reach me: writamsamanta898@gmail.com</h6>
 
 ###
 
