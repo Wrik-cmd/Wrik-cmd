@@ -1,4 +1,10 @@
-<h1 align="center">Hii 👋 I'm Wrik</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hii%20%F0%9F%91%8B%20I'm%20Wrik&fontSize=70&fontColor=FFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
+
+###
+
+<h1 align="center">A Fullstack developer👀</h1>
 
 ###
 
@@ -8,15 +14,11 @@
 
 ###
 
-<p align="left">I am a Fullstack developer</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
-<h6 align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning React<br>🎲 Curious coder<br>📫How to reach me: writamsamanta898@gmail.com</h6>
+<h6 align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning JS<br>🎲 Curious coder</h6>
 
 ###
 
@@ -92,14 +94,14 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wrik-cmd.Wrik-cmd&"  />
+  <img src="https://streak-stats.demolab.com?user=Wrik-cmd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wrik-cmd&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Wrik-cmd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wrik-cmd&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
 
 ###
